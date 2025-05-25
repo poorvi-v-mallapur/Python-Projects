@@ -1,14 +1,3 @@
-# import pyttsx3
-# engine = pyttsx3.init()
-# print("Welcome to RoboSpeaker 1.1")
-# while True:
-#     text = input("Enter what you want me to speak (or 'q' to quit): ")
-#     if text.lower() == "q":
-#         break
-#     engine.say(text)
-#     engine.runAndWait()
-
-
 import tkinter as tk
 import pyttsx3
 
